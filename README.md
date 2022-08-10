@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfb&height=180&section=header&text=Wesley Mantovane&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Wesley+Mantovane;I'm+25+years+old;I'm+from+Brasil,+Parauapebas-PA;I'm+systems+development+Flutter+study;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
