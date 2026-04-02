@@ -1,7 +1,5 @@
 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MantoDev97&theme=gotham&hide_border=true&area=true)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MantoDev97&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -30,10 +28,7 @@
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;-->
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MantoDev97}/count.svg" /></p> 
-<br></div>
+ 
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfb&height=120&section=footer"/>
